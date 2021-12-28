@@ -43,8 +43,6 @@ RSpec.describe 'Hashes' do
     # default values of zero
     # create a "tomatoes" key and a :carrots key
     ingredients = Hash.new(0)
-    ingredients["tomatoes"] =
-    # ingredients[:carrots] =
     expect(ingredients["tomatoes"]).to eq(0)
     expect(ingredients[:carrots]).to eq(0)
   end
