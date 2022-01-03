@@ -4,11 +4,11 @@ The exercises can be completed in any order, but if you would like a suggestion,
 
 Suggested Order:
 
-* map_pattern_spec.rb
-* find_pattern_spec.rb
-* select_pattern_spec.rb
-* count_pattern_spec.rb
-* all_pattern_spec.rb
-* max_and_min_by_pattern_spec.rb
-* inject_pattern_spec.rb
-* group_by_pattern_spec.rb
+[X] map_pattern_spec.rb
+[X] find_pattern_spec.rb
+[X] select_pattern_spec.rb
+[X] count_pattern_spec.rb
+[X] all_pattern_spec.rb
+[X] max_and_min_by_pattern_spec.rb
+[X] inject_pattern_spec.rb
+[X] group_by_pattern_spec.rb
