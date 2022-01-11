@@ -67,19 +67,19 @@ $ rspec exercises_1/spec/map_spec.rb
 
 Consider working through the exercises in this order:
 
-* `map`
-* `select`
-* `find` (aka `detect`)
-* `sort_by`
-* `count`
-* `reject`
-* `reduce` (this one is tricky!)
-* `any?`
-* `all?`
-* `none?`
-* `one?`
-* `group_by` (this one is tricky too!)
-* `zip`
+[X] `map`
+[X] `select`
+[X] `find` (aka `detect`)
+[X] `sort_by`
+[X] `count`
+[X] `reject`
+[X] `reduce` (this one is tricky!)
+[X] `any?`
+[X] `all?`
+[X] `none?`
+[X] `one?`
+[X] `group_by` (this one is tricky too!)
+[X] `zip`
 
 You should work on the `pattern` test file in conjunction with the specific enumerable. `select_pattern_spec.rb` alongside `select_spec.rb`, etc.
 
@@ -93,4 +93,3 @@ Here's how we recommend you work through the exercises:
 * Run the `map_pattern_spec.rb` and solve the first exercise
 * Run the `map_spec.rb` and solve the same exercise
 * Repeat for each matching pair of exercises
-
